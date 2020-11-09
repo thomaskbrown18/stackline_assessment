@@ -27,7 +27,7 @@ I modeled each product separately, and came up with an R2 value of roughly .64 f
 
 ![Imgur](https://i.imgur.com/zoaHrqC.png)
 
-Next, I did a polynomial model, using Price squared to help fit the curve. This model worked much better as you can see from the visualization below:
+Next, I did a polynomial model using Price squared to help fit the curve. This model worked much better as you can see from the visualization below:
 
 ![Imgur](https://i.imgur.com/0lxN06j.png)
 
