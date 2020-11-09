@@ -31,6 +31,10 @@ Next, I did a polynomial model using Price squared to help fit the curve. This m
 
 ![Imgur](https://i.imgur.com/0lxN06j.png)
 
+The QQ plot looked much better as well:
+
+![Imgur](https://i.imgur.com/sox8odf.png)
+
 While I now have sales modeled, this was only half the equation. I need to find out what price to set. For this, I chose to maximize revenue. Anyone can maximize sales by dropping the price drastically, but this does not help the company, as they would likely lose money. I used the curve I modeled for each product to now show a revenue curve, showing different revenue levels in millions at each different price. The goal for price setting is to maximize this function. Maximizing profit would be ideal, but as I don't know the cost to produce Product A or B, revenue will have to do!
 
 ![Imgur](https://i.imgur.com/3YsoRJD.png)
